@@ -9,4 +9,3 @@ fi
 git add *
 git commit -m "$commentMessage"
 git push
- 
