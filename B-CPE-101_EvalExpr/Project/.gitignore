@@ -1,0 +1,14 @@
+main
+a.out
+eval_expr
+
+*.a
+*.o
+.idea
+
+*~
+\#*#
+
+vgcore.*
+unit_tests-*
+unit_tests
