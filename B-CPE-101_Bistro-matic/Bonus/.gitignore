@@ -1,0 +1,13 @@
+*.a
+*.o
+*.out
+.sh
+
+main
+calc
+.idea
+.vscode
+
+bistro-gui
+assets/log.txt
+unit*

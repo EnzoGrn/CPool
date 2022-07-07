@@ -1,0 +1,10 @@
+*.a
+*.o
+*.out
+.sh
+
+main
+calc
+.idea
+.vscode
+unit*
