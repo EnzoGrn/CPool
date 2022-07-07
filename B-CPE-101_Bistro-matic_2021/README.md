@@ -1,5 +1,21 @@
 # Bistromatic
 
+- 01 - syntax errors : 91.7% [:green_square::green_square::green_square::green_square::green_square:]
+- 02 - addition : 100.0% [:green_square::green_square::green_square::green_square::green_square:]
+- 02.5 - addition : 100.0% [:green_square::green_square::green_square::green_square::green_square:]
+- 03 - substraction : 100.0% [:green_square::green_square::green_square::green_square::green_square:]
+- 03.5 - substraction : 100.0% [:green_square::green_square::green_square::green_square::green_square:]
+- 04 - multiplication : 100.0% [:green_square::green_square::green_square::green_square::green_square:]
+- 04.5 - multiplication : 100.0% [:green_square::green_square::green_square::green_square::green_square:]
+- 05 - division : 81.8% [:green_square::green_square::green_square::green_square::green_square:]
+- 05.5 - division : 90.9% [:green_square::green_square::green_square::green_square::green_square:]
+- 06 - modulo : 81.8% [:green_square::green_square::green_square::green_square::green_square:]
+- 06.5 - modulo : 72.7% [:orange_square::orange_square::orange_square::orange_square::orange_square:]
+- 07 - base and operators : 66.7% [:orange_square::orange_square::orange_square::orange_square::orange_square:]
+- 07.5 - base and operators : 66.7% [:orange_square::orange_square::orange_square::orange_square::orange_square:]
+- 08 - eval expr : 50.0% [:orange_square::orange_square::orange_square::orange_square::orange_square:]
+- 08.5 - eval expr : 50.0% [:orange_square::orange_square::orange_square::orange_square::orange_square:]
+
 ## _What is the Bistromatic?_
 
  The Bistromatic is a 1st year project of Epitech, which simply is a calculator that can handle infinite numbers.
